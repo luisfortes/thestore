@@ -1,4 +1,4 @@
-TheStore  TheStore  [![Build Status](https://travis-ci.org/fortesl/thestore.svg?branch=withFbB)](https://travis-ci.org/fortesl/thestore) [![devDependency Status](https://david-dm.org/luisfortes/thestore/dev-status.svg)](https://david-dm.org/luisfortes/thestore#info=devDependencies) [![Code Climate](https://codeclimate.com/github/luisfortes/thestore/badges/gpa.svg)](https://codeclimate.com/github/luisfortes/thestore)
+TheStore [![Build Status](https://travis-ci.org/fortesl/thestore.svg?branch=withFbB)](https://travis-ci.org/fortesl/thestore) [![devDependency Status](https://david-dm.org/luisfortes/thestore/dev-status.svg)](https://david-dm.org/luisfortes/thestore#info=devDependencies) [![Code Climate](https://codeclimate.com/github/luisfortes/thestore/badges/gpa.svg)](https://codeclimate.com/github/luisfortes/thestore)
 ========
 An online store built on Bootstrap and Angular technologies. 
 
@@ -9,8 +9,8 @@ Follow <a href="https://twitter.com/the_onlinestore">@the_onlinestore</a> on twi
 View the <a href="http://fortesl.github.io/thestore/#/">demo website</a>
 
 
-A development machine should have installed the following dependencies
-======================================================================
+A development machine should have:
+=================================
 - Java
 - nodejs
 - git
@@ -19,8 +19,8 @@ A development machine should have installed the following dependencies
 - bower (npm install -g bower)
 - compass (gem install compass)
 
-To install the project for development on your local dev machine
-=========================================================
+To install the project for development:
+=======================================
 Either with <a href="https://github.com/fortesl/thestore">github</a> 
 <ol>
     <li>Fork and clone the project to a local folder</li>
